@@ -13,13 +13,15 @@ with sqlite3.connect ("cars.db") as connection:
 	
 	
 	c.executemany("INSERT INTO inventory VALUES(?,?,?)", cars)
-	c.execute ("SELECT * FROM inventory ORDER BY make ASC")
+	
+	c.execute("""SELECT model FROM inventory WHERE quantity >14""")
+	print "/nNEW DATA /n"
+	#c.execute (""" SELECT * FROM inventory""")
 	rows=c.fetchall()
 	
 	for r in rows:
-		print "MAKE MODEL QUANTITIY :" + r[0] +r [1] + str( r[2])
-		#print "MODEL :" + r[1]
-		#print "QUANTITIY :" + str(r[2])
+		print r [0]
+		
 		
 	
 	
