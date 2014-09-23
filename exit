@@ -1,0 +1,83 @@
+[33mcommit fdfb4e4ccc5590b81d82e807fa0044bd45f285db[m
+Author: Olzhas Shaikenov <olzhas.shaikenov@gmail.com>
+Date:   Tue Sep 23 03:13:55 2014 -0400
+
+    last SQL projects
+
+[33mcommit ba3a0f3ee1db69e13469d150a6d7b97fd3367737[m
+Author: Olzhas Shaikenov <olzhas.shaikenov@gmail.com>
+Date:   Mon Sep 22 18:48:38 2014 -0400
+
+    join cars and orders
+
+[33mcommit f220eec3418b1bde45029a285cde7f40b1af7844[m
+Author: Olzhas Shaikenov <olzhas.shaikenov@gmail.com>
+Date:   Mon Sep 22 17:02:53 2014 -0400
+
+    Cars DB with Cars
+
+[33mcommit 37ee6e452708968dd7f08752332080eb5b0b706c[m
+Author: Olzhas Shaikenov <olzhas.shaikenov@gmail.com>
+Date:   Mon Sep 22 16:22:08 2014 -0400
+
+    Joining tables in SQlite3
+
+[33mcommit f1c0d62ad452e0b57d772cee3451ee9da018b086[m
+Author: Olzhas Shaikenov <olzhas.shaikenov@gmail.com>
+Date:   Mon Sep 22 16:15:06 2014 -0400
+
+    New files to work with SQLite 3
+
+[33mcommit 033ee35c51bae731811a96d567f86df87c71f4f7[m
+Author: Olzhas Shaikenov <olzhas.shaikenov@gmail.com>
+Date:   Fri Sep 19 18:33:42 2014 -0400
+
+    update and delete data from the new.db, and print out in the rows, used fetchall()
+
+[33mcommit 6759b000a152f6e77a927d44273f6f202bb3def7[m
+Author: Olzhas Shaikenov <olzhas.shaikenov@gmail.com>
+Date:   Fri Sep 19 18:18:41 2014 -0400
+
+    search.py to search in DB and print out the data in rows
+
+[33mcommit 2f3990abc6ebe0ba39c758027a7688f5d7bf4cc7[m
+Author: Olzhas Shaikenov <olzhas.shaikenov@gmail.com>
+Date:   Fri Sep 19 16:16:33 2014 -0400
+
+     new files for db, emplyees, and working with csv files in python
+
+[33mcommit 6528ae7e4c651cd1d74dd18a8ebd5261e8bfd295[m
+Author: Olzhas Shaikenov <olzhas.shaikenov@gmail.com>
+Date:   Fri Sep 19 02:50:27 2014 -0400
+
+    python, sqlite3
+
+[33mcommit ea76b3723e27704498dad29f436085f89fcfdbdf[m
+Author: Olzhas Shaikenov <olzhas.shaikenov@gmail.com>
+Date:   Fri Sep 19 02:25:59 2014 -0400
+
+    New file cars.py with cars.db
+
+[33mcommit 23599fa45ed4d5c61fc4eb3a8ddd60b58c3797fc[m
+Author: Olzhas Shaikenov <olzhas.shaikenov@gmail.com>
+Date:   Fri Sep 19 02:00:54 2014 -0400
+
+    asdf
+
+[33mcommit ab5dc36983a48e567b4cac40e6eebec4a31ee45b[m
+Author: Olzhas Shaikenov <olzhas.shaikenov@gmail.com>
+Date:   Fri Sep 19 01:47:59 2014 -0400
+
+    message
+
+[33mcommit a1d9dab5ad19d00f539e094f38f2011b934ada09[m
+Author: Olzhas Shaikenov <olzhas.shaikenov@gmail.com>
+Date:   Fri Sep 19 01:38:02 2014 -0400
+
+    Sql
+
+[33mcommit 7a6d6233e552d6f1730d0509bf778d4ae3e20414[m
+Author: Olzhas Shaikenov <olzhas.shaikenov@gmail.com>
+Date:   Fri Sep 19 01:18:49 2014 -0400
+
+    these are the files for the simple python file that creates DB in SQLite
